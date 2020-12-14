@@ -1,8 +1,8 @@
 # SUPER HORSE SIMULATOR 2000
 
-This is a silly website I made in order to learn how to use [Yesod](yesodweb.com).
+This is a silly website I made in order to learn how to use [Yesod](https://www.yesodweb.com).
 
-As of 2020-12-13, the website can be viewed [here](horses.jollybard.net).
+As of 2020-12-13, the website can be viewed [here](http://horses.jollybard.net).
 
 Needless to say, since the website offers no filters or admin tools, I am not responsible for the horses created therein. Do contact me if there's anything illegal and I shall take it down.
 
