@@ -4,8 +4,6 @@ This is a silly website I made in order to learn how to use [Yesod](https://www.
 
 As of 2020-12-13, the website can be viewed [here](http://horses.jollybard.net).
 
-Needless to say, since the website offers no filters or admin tools, I am not responsible for the horses created therein.
-
 ## Haskell Setup
 
 1. If you haven't already, [install Stack](https://haskell-lang.org/get-started)
